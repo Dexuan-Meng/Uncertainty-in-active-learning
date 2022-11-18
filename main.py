@@ -2,7 +2,7 @@ import torch
 import numpy as np
 import os
 import argparse
-from utils import get_dataset, img_processing
+from utils import get_dataset, img_processing, data_init
 
 
 def main():
