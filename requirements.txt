@@ -1,2 +1,6 @@
 torch==1.9.1+cu111
 numpy
+modAL
+sklearn
+skorch
+blitz-bayesian-pytorch
